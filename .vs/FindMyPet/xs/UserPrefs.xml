@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{14856906-C468-43A2-A83D-DE4B58CD2219}|Authenticate">
+  <MonoDevelop.Ide.ItemProperties.FindMyPet PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/brunohashimoto/Desktop/Findmypet-Api/Repository/AccoutRepository.cs" relfile="Repository/AccoutRepository.cs" line="158" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repository/AccoutRepository.cs">
+    <Files>
+      <File FileName="Business/AccoutBusiness.cs" />
+      <File FileName="Controllers/AccoutController.cs" />
+      <File FileName="Repository/AccoutRepository.cs" Line="163" Column="17" />
+      <File FileName="Models/CreatedUser.cs" />
+      <File FileName="Models/CreatedUserWithoutPassword.cs" />
+      <File FileName="Models/Feed.cs" />
+      <File FileName="Models/MessageError.cs" />
+      <File FileName="Repository/PostRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FindMyPet" expanded="True">
+            <Node name="FindMyPet" expanded="True">
+              <Node name="Business" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="AccoutRepository.cs" selected="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
